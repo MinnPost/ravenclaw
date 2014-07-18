@@ -1,0 +1,25 @@
+{
+  "name": "ravenclaw",
+  "version": "0.0.1",
+  "homepage": "https://github.com/MinnPost/ravenclaw",
+  "authors": [
+    "Alan Palazzolo <apalazzolo@minnpost.com>"
+  ],
+  "description": "SRCCON 2014 House Ravenclaw (Lightning Talks)",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "html5-boilerplate": "~4.3.0",
+    "jquery": "~2.1.1",
+    "underscore": "~1.6.0",
+    "minnpost-styles": "master"
+  }
+}

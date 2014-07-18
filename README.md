@@ -1,4 +1,3 @@
-ravenclaw
-=========
+# Ravenclaw
 
-SRCCON 2014 House Ravenclaw (Lightning Talks)
+SRCCON 2014 House Ravenclaw (Lightning Talks) mini-site.
