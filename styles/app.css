@@ -1,0 +1,60 @@
+.mp .header {
+  padding-top: 3em;
+}
+
+.mp .section {
+  margin-bottom: 6em;
+}
+
+.mp iframe {
+  border: 1px solid #797979;
+}
+
+.mp .text-image {
+  width: 1em;
+  max-height: 1em;
+  display: inline-block;
+  margin: 0 .5em 0 0;
+  vertical-align: middle;
+}
+
+.mp .talk-list {
+  padding-top: 2em;
+  margin-bottom: 2em;
+}
+
+.mp .talk-list-item {
+  font-size: 1.75em;
+}
+
+.mp .talk-list-item.row {
+  margin-bottom: .85em;
+}
+
+.mp .talk-list-item .title {
+  width: 50%;
+  float: left;
+  text-align: right;
+  line-height: 1.25em;
+}
+
+.mp .talk-list-item .name {
+  width: 50%;
+  float: left;
+  text-align: left;
+  line-height: 1.25em;
+}
+
+@media (max-width: 600px) {
+  .mp .talk-list-item .title,
+  .mp .talk-list-item .name {
+    display: inline;
+    float: none;
+    width: auto;
+  }
+
+  .mp .row {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}

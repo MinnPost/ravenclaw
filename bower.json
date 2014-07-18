@@ -20,6 +20,7 @@
     "html5-boilerplate": "~4.3.0",
     "jquery": "~2.1.1",
     "underscore": "~1.6.0",
-    "minnpost-styles": "master"
+    "minnpost-styles": "master",
+    "tabletop": "~1.3.5"
   }
 }
