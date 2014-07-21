@@ -1,5 +1,6 @@
-.mp .header {
-  padding-top: 3em;
+.mp h1 {
+  padding-top: 1.5em;
+  margin-bottom: 0em;
 }
 
 .mp .section {
